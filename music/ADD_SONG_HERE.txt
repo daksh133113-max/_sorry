@@ -1,2 +1,1 @@
-Put your chosen MP3 song in this folder.
-Name the file song.mp3
+Place your MP3 here and name it song.mp3.
