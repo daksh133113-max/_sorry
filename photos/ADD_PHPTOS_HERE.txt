@@ -1,0 +1,5 @@
+Put your personal photos in this folder.
+Use these filenames:
+photo-1.jpg
+photo-2.jpg
+photo-3.jpg
